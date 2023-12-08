@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//billynutty.github.io/gpt3/static/css/main.e7a7b72d.css",
+    "main.js": "//billynutty.github.io/gpt3/static/js/main.a3ba914a.js",
+    "static/media/ai.png": "//billynutty.github.io/gpt3/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "//billynutty.github.io/gpt3/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "//billynutty.github.io/gpt3/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "//billynutty.github.io/gpt3/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "//billynutty.github.io/gpt3/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "//billynutty.github.io/gpt3/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "//billynutty.github.io/gpt3/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/index.cjs": "//billynutty.github.io/gpt3/static/media/index.671993152dc0f6e0b17a.cjs",
+    "static/media/people.png": "//billynutty.github.io/gpt3/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "//billynutty.github.io/gpt3/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "//billynutty.github.io/gpt3/index.html",
+    "main.e7a7b72d.css.map": "//billynutty.github.io/gpt3/static/css/main.e7a7b72d.css.map",
+    "main.a3ba914a.js.map": "//billynutty.github.io/gpt3/static/js/main.a3ba914a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7a7b72d.css",
+    "static/js/main.a3ba914a.js"
+  ]
+}
